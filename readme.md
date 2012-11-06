@@ -46,4 +46,4 @@ Left a couple of console.logs in my code, which was causing IE to hang.
 
 ### Version 1.0
 
-This is my first jQuery plugin and the first time I’ve published anything on Github. Let me know if I can improve something or if I’m making some kind of mistake. 
+# THIS IS AWEOMMMMMMMMMMEMMEMEMEMEMEM
