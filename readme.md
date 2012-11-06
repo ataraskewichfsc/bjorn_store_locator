@@ -44,4 +44,4 @@ Added a modal window option. Set slideMap to false and modalWindow to true to us
 
 Left a couple of console.logs in my code, which was causing IE to hang.
 
-# AWESEOME STUFF!!!!!!
+# OKAY LET'S GET SERIOUS!!!!
